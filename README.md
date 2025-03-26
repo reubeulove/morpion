@@ -66,20 +66,6 @@ morpion.exe
 
 - Choisissez un mode de jeu et commencez à jouer en appuyant sur Entrée après la sélection.
 
-## Exemple de jeu
-
-Use arrows to choose mode, Enter to confirm:
-1. Player vs Player
-2. Player vs Bot
-3. Bot vs Bot
-
-Selected mode: 1
-
-Player X's turn:
-[ X ] [   ] [   ]
-[   ] [ O ] [   ]
-[   ] [   ] [   ]
-
 ## Contribution
 1. Fork ce dépôt.
 
